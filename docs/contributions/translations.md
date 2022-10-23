@@ -1,13 +1,25 @@
 # How to contribute with translation
 
+## Preparando o ambiente
+
 Para nos ajudar com a tradução do projeto você precisará:
 
 1. Realizar um fork neste [repositório](https://github.com/yasse-ofc/docs);
-2. Executar os comandos:
+2. Executar os comandos de clonagem SSH:
 
 ```bash
 git clone git@github.com:yasse-ofc/docs.git
 cd docs
 ```
 
-inicialmetente etamos interessados em contribuições de portugues para inglês, mas estamaos abertos pra outras linguagens se você tiver o domínio dela.
+3. Abrir a pasta no editor de código de sua preferência;
+4. Realizar o Download das extensões para editar MarkDown: 
+
+    1. [markdownlint]()
+    2. [Markdown All in One]()
+
+
+## Começar a traduzir
+
+Inicialmete estamos interesados em realizar a tradução para inglês, mas se sua escolha for realizar a tradução para outro idioma estamos abertos para outras traduções também.
+
