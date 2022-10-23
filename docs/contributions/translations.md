@@ -15,8 +15,8 @@ cd docs
 3. Abrir a pasta no editor de código de sua preferência;
 4. Realizar o Download das extensões para editar MarkDown: 
 
-    1. [markdownlint]()
-    2. [Markdown All in One]()
+    1. [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+    2. [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
 
 ## Começar a traduzir
